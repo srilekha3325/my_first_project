@@ -1,2 +1,3 @@
 # my_first_project
- my name is srilekha 
+<h1> my name is srilekha</h1>
+<h2> i am from nizamabad</h2>
